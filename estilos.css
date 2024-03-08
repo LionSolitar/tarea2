@@ -1,0 +1,45 @@
+.general{
+    background-image: url(im.jpg);
+    display: flex;
+    flex-direction: row;  
+    flex-wrap: wrap;
+}
+.general1{
+    background-image: url(gen.jpg);
+    width: 470px;
+    height: 900px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja1{
+    background-image: url(ril.jpg);
+    width: 26%;
+    height: 150px;
+    margin: 3%;
+}
+.caja2{
+    background-image: url(ult.jpg);
+    width: 90%;
+    height: 120px;
+    margin: 3%;
+}
+.caja3{
+    background-image: url(ca1.jpg);
+    width: 90%;
+    height: 140px;
+    margin: 4%;
+    margin-top: 35px;
+}
+.caja4{
+    background-image: url(ros.jpg);
+    width: 26%;
+    height: 180px;
+    margin: 3%;
+    margin-top: 35px;
+    margin-bottom: 13px;
+}
+
+
+
